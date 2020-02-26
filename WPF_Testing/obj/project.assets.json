@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\koper\\.nuget\\packages\\": {},
+    "C:\\Users\\Aventus\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ФІЗМАТ\\3 курс\\CommandProject\\KoPaFi_WPF_Testing\\WPF_Testing\\WPF_Testing.csproj",
+      "projectUniqueName": "C:\\WPF_Testing\\WPF_Testing\\WPF_Testing\\WPF_Testing.csproj",
       "projectName": "WPF_Testing",
-      "projectPath": "F:\\ФІЗМАТ\\3 курс\\CommandProject\\KoPaFi_WPF_Testing\\WPF_Testing\\WPF_Testing.csproj",
-      "packagesPath": "C:\\Users\\koper\\.nuget\\packages\\",
-      "outputPath": "F:\\ФІЗМАТ\\3 курс\\CommandProject\\KoPaFi_WPF_Testing\\WPF_Testing\\obj\\",
+      "projectPath": "C:\\WPF_Testing\\WPF_Testing\\WPF_Testing\\WPF_Testing.csproj",
+      "packagesPath": "C:\\Users\\Aventus\\.nuget\\packages\\",
+      "outputPath": "C:\\WPF_Testing\\WPF_Testing\\WPF_Testing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\koper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aventus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -66,7 +66,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,8 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\koper\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\koper\\.nuget\\packages",
+      "C:\\Users\\Aventus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Aventus\\.nuget\\packages",
       "C:\\Microsoft\\Xamarin\\NuGet"
     ],
     "configProperties": {
