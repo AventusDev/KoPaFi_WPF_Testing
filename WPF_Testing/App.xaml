@@ -4,6 +4,69 @@
              xmlns:local="clr-namespace:WPF_Testing"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        
+        <!--Шаблон кнопки меню-->
+
+        <ControlTemplate x:Key="templateMenuButton" TargetType="Button">
+
+            <Border x:Name="buttonBorder" CornerRadius="25" BorderThickness="4.5">
+                <Border.Background>
+                    <SolidColorBrush Color="#C680E7"/>
+                </Border.Background>
+
+                <Border.BorderBrush>
+                    <SolidColorBrush Color="White"/>
+                </Border.BorderBrush>
+
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" TextBlock.Foreground="White" TextBlock.FontSize="18" TextBlock.TextAlignment="Center" TextBlock.FontWeight="Medium"/>
+            </Border>
+
+            <ControlTemplate.Triggers>
+
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="buttonBorder" Property="Background" Value="#FFC988E8"/>
+                </Trigger>
+
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter TargetName="buttonBorder" Property="Background" Value="#FFC279E4"/>
+                </Trigger>
+
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="buttonBorder" Property="BorderThickness" Value="5"/>
+                </Trigger>
+
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter TargetName="buttonBorder" Property="BorderThickness" Value="4.7"/>
+                </Trigger>
+
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+
+
+        <!--Шаблон кнопки-->
+
+        <ControlTemplate x:Key="templateButton" TargetType="Button">
+
+            <Border x:Name="buttonBackground" CornerRadius="20">
+                <Border.Background>
+                    <SolidColorBrush Color="#C680E7"/>
+                </Border.Background>
+
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" TextBlock.Foreground="White" TextBlock.FontSize="16" TextBlock.TextAlignment="Center" TextBlock.FontWeight="Medium"/>
+            </Border>
+
+            <ControlTemplate.Triggers>
+
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="buttonBackground" Property="Background" Value="#FFC988E8"/>
+                </Trigger>
+
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter TargetName="buttonBackground" Property="Background" Value="#FFC279E4"/>
+                </Trigger>
+
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+        
     </Application.Resources>
 </Application>
