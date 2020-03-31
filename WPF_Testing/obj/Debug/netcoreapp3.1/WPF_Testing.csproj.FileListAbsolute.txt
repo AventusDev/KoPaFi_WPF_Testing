@@ -20,3 +20,5 @@ E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WPF
 E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\App.baml
 E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowRegistration.g.cs
 E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowRegistration.baml
+E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowAuthorization.g.cs
+E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowAuthorization.baml

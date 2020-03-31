@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\App.xaml
-2488705145
+3828070920
 
-4382695564
+5-208146827
 1921654412462
-MainWindow.xaml;WindowRegistration.xaml;
+MainWindow.xaml;WindowAuthorization.xaml;WindowRegistration.xaml;
 
 False
 
