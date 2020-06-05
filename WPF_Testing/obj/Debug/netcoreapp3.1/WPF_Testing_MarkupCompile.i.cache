@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\
 WPF_Testing
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\App.xaml
-3828070920
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\App.xaml
+4-1824224965
 
-6970119330
+7-1669421413
 1921654412462
-MainWindow.xaml;WindowAuthorization.xaml;WindowRegistration.xaml;
+MainWindow.xaml;WindowAuthorization.xaml;WindowRegistration.xaml;WindowSettings.xaml;
 
-True
+False
 

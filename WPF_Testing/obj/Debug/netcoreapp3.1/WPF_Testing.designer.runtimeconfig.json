@@ -6,8 +6,9 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\Dmytro\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Dmytro\\.nuget\\packages"
+      "C:\\Users\\koper\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\koper\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

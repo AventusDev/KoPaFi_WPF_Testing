@@ -22,3 +22,24 @@ E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\Win
 E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowRegistration.baml
 E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowAuthorization.g.cs
 E:\Education\Projects\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowAuthorization.baml
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\bin\Debug\netcoreapp3.1\WPF_Testing.exe
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\bin\Debug\netcoreapp3.1\WPF_Testing.deps.json
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\bin\Debug\netcoreapp3.1\WPF_Testing.runtimeconfig.json
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\bin\Debug\netcoreapp3.1\WPF_Testing.runtimeconfig.dev.json
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\bin\Debug\netcoreapp3.1\WPF_Testing.dll
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\bin\Debug\netcoreapp3.1\WPF_Testing.pdb
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowAuthorization.g.cs
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowRegistration.g.cs
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\App.g.cs
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WPF_Testing_MarkupCompile.cache
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WPF_Testing_MarkupCompile.lref
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\App.baml
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowAuthorization.baml
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WindowRegistration.baml
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WPF_Testing.g.resources
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WPF_Testing.AssemblyInfoInputs.cache
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WPF_Testing.AssemblyInfo.cs
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WPF_Testing.dll
+F:\ФІЗМАТ\3 курс\CommandProject\KoPaFi_WPF_Testing\WPF_Testing\obj\Debug\netcoreapp3.1\WPF_Testing.pdb

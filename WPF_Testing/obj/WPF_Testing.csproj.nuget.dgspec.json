@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Education\\Projects\\KoPaFi_WPF_Testing\\WPF_Testing\\WPF_Testing.csproj": {}
+    "F:\\ФІЗМАТ\\3 курс\\CommandProject\\KoPaFi_WPF_Testing\\WPF_Testing\\WPF_Testing.csproj": {}
   },
   "projects": {
-    "E:\\Education\\Projects\\KoPaFi_WPF_Testing\\WPF_Testing\\WPF_Testing.csproj": {
+    "F:\\ФІЗМАТ\\3 курс\\CommandProject\\KoPaFi_WPF_Testing\\WPF_Testing\\WPF_Testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Education\\Projects\\KoPaFi_WPF_Testing\\WPF_Testing\\WPF_Testing.csproj",
+        "projectUniqueName": "F:\\ФІЗМАТ\\3 курс\\CommandProject\\KoPaFi_WPF_Testing\\WPF_Testing\\WPF_Testing.csproj",
         "projectName": "WPF_Testing",
-        "projectPath": "E:\\Education\\Projects\\KoPaFi_WPF_Testing\\WPF_Testing\\WPF_Testing.csproj",
-        "packagesPath": "C:\\Users\\Dmytro\\.nuget\\packages\\",
-        "outputPath": "E:\\Education\\Projects\\KoPaFi_WPF_Testing\\WPF_Testing\\obj\\",
+        "projectPath": "F:\\ФІЗМАТ\\3 курс\\CommandProject\\KoPaFi_WPF_Testing\\WPF_Testing\\WPF_Testing.csproj",
+        "packagesPath": "C:\\Users\\koper\\.nuget\\packages\\",
+        "outputPath": "F:\\ФІЗМАТ\\3 курс\\CommandProject\\KoPaFi_WPF_Testing\\WPF_Testing\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Dmytro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\koper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,7 +59,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

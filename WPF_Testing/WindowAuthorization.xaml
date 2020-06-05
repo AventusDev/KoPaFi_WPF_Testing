@@ -6,7 +6,14 @@
         xmlns:local="clr-namespace:WPF_Testing"
         mc:Ignorable="d"
         Title="Авторизація" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Height="450">
+        <TextBox Height="40" Margin="308,156,308,254"/>
+        <PasswordBox Height="40" Margin="308,246,307,164"/>
+        <Label Content="Ім'я користувача" HorizontalAlignment="Center" Margin="0,125,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="DemiBold"/>
+        <Label Content="Пароль" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" FontWeight="DemiBold"/>
+        <Label Content="Тестування" HorizontalAlignment="Center" Margin="0,55,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="DemiBold"/>
+        <CheckBox Content="Показувати пароль" HorizontalAlignment="Center" Margin="0,302,0,0" VerticalAlignment="Top" Height="26"/>
+        <Button Content="Увійти" HorizontalAlignment="Center" Margin="0,348,0,0" VerticalAlignment="Top" Width="242" FontWeight="Normal" Height="49"/>
     </Grid>
+
 </Window>
